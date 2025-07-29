@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Form from './components/form'
+import Form from './components/Form'
 import FeedbackList from './components/FeedbackList';
 
 function App() {
